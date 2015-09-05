@@ -1,3 +1,109 @@
 Part 3 notes
 
+walk through all the numbered documents
+
+so far: some idea of the invention. decatherer inserting and withdrawing from airway such that cleaning of catherer is in a partially isolated chamber (so no bothering of breathing and keeps catherer clean)
+
+pg 65 peliminary amendment - change how a patent is presented
+
+now officially an 'application data sheet'
+
+pg 67 mistake on previously referred patent. changed number
+
+pg 72 information disclosure statement
+
+pg 75-82 IDS forms
+
+pg 83 suppl IDS - some more info for IDS
+-> example, co-pending applications
+
+pg 88 - says they have looked at the patent application
+
+pg 89 summary of office action
+
+examiner:
+insufficient in explanation
+other patents have done it
+"you" have done the patent in other applications
+
+exchange is cordial and polite, but do not 'mince words'. very straightforward and direct verbiage; plain spoken. 
+
+recorded assignment (patent was sold to x)
+
+pg 111 terminal disclaimer
+-> you are double patenting; therefore you have option to submit a terminal 
+
+this is so you don't expand your right in terms of the time of the patent. this is related to public policy and nature of restriction and double patenting
+
+solved via terminal disclaimer
+
+pg 114 amendment
+
+pg 127; only changed is the underlined portion
+
+we open and close the valve by pushing catherer through by withdrawing it (differentiating piece for invention) 
+
+pg 131 another office action
+
+pg 152-153; new amendments 
+
+pg 157 advisory action - not going to consider what you submitted (examiner) because new issues are submitted
+
+pg 169/170 new amendment in combination witih an RCE (same amendment) and change the claims a little differently than before
+
+RCE = request for continued examination ($860)
+
+this had to be filed since rejection was final
+
+pg 175 another office action
+
+pg 183 applicant files a response with no amendments
+
+details 6-7 pages explaining why the examiner is wrong
+
+pg 197 response from examiner
+
+arguments have not changed my mind (examiner) 
+
+pg 209 applicant says you are wrong, examiner
+
+pg 217 next advisory action; nothings changed 
+
+pg 219 notice of appeal and the brief on pg 220
+
+appeal is a response to action office. 
+
+case citations are generally not recommended when corresponding to an examiner, they do not act on cases. they implement policy based on the basis of the cases, but the basis is decided by others. 
+
+examiner appreciates a case, but will not act on a case. 
+
+board of appeal DOES act on cases, so appeal has case citations. 
+
+appeal says basically the same argument as presented to the examiner + some case citations. 
+
+appendix at end includes claims as they exist now
+
+pg 241 examiners action - critique of what applicant has said on the brief. it's an office action, another rejection. 
+
+pg 253 response/reply to the examiner from applicant
+
+pg 259 fwd'd to the board
+
+decision on appeal pg 263
+
+3 administrartive patent judges makes a decision
+
+agreed with the applicant and reveresed everything examiner had to say
+
+pg 271 signed allowed
+
+notice of allowability on pg 273
+
+pg 276 is patent term adjustment -- due to the delay experienced on the patent office, days are added back to the application
+
+done with that file history
+
+file history is available to anyone after the patent issues or the patent is published
+
+key words glossary begins in the appendix
 
