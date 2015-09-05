@@ -1,0 +1,139 @@
+precourse part 2 - file history
+
+file history - what a patent prosecution and an actual file history looks like. what are these documents, what do they look like, how does it all fit together?
+
+what is a file history?
+-> same thing for a long time (100+ years old)
+-> you can still get them (the files) if you request them at the file room at the USPTO
+-> only "new" thing since 2000 (since after that) is the electronic version of the file 
+
+example is from 1998, left office around 2000-2001
+-> around this time USPTO was transfering from paper based to image based system
+
+file history is a literal copy of the exact file that is in the USPTO. 3 sections:
+-> 1 section is behind the cover (search notes)
+-> center includes from the applicant to the office
+-> 3rd section is from the office to the applicant
+
+example is a typical file history (200-300 pages). includes:
+-request for continuation examination
+-file to appeal brief
+-decision by the board
+
+page 2 is typically handwritten, but is typed in the example
+
+paper numbers (begin with paper number 2, 1 is the application itself)
+
+application includes:
+specification, claims, and drawings
+
+completed enabling, completely describe invention. claims distinctly claims what is regarded as the invention. drawings are big part of the enablement.
+
+almost every application will need drawings (999/1000) -- even if its software on a device (flowchart). chemical (bonding diagram). 
+
+
+amedments are changes in presentation, not in content itself (no new content to application)
+
+
+if information is relevant to US application; you submit an IDS. 
+
+example is a second addition to a previously filed amendment. IDS in this case were submitted to note this. 
+
+
+
+terminal disclaimer filed - 
+
+USPTO does not want you to have too many patents on a single related patent. you should agree that all of these patents should be owned by same company. if any one patent is expired, all the other patents also expire. 
+
+limits the term so that all expire at same time.
+
+pg 3. search notes
+
+generally under 20 claims; can go into hundreds
+
+pg. 4 search notes
+
+examiner is responsible for finding prior art
+
+pg 5 - patent office form 
+
+pg 6 - abstract; 150 words or less of disclosure of the patent application. 
+
+not invention per se--rather, captures the entirety of whats in this particular application
+
+pg 7 - application begins
+
+pg 8
+
+headings are as generally required
+
+field of the invention - general technical area where the device is assossciated
+
+example is related to respiratotry suction.....
+
+state of the art - "background of the invention" - describe the backdrop, technical art, of the area of technology as the time of filing
+
+example background is fairly extensive. 
+
+background of example: 
+-> can't eat by themselves then equiped by endothracheal catheter
+-> plugs into your body below your mouth/voice box/throat; provides air down your tracea into your lungs
+-> problem is loss of filteration/moistening by your body
+-> when done lower in your system; things begin to accumulate on this decather which needs to be cleaned off
+-> this is what this technology is off. how to clean this off without stopping the breathing function. 
+-> insert a catherer; it slides down the tube; sucks out any dirt/things not to be there
+-> when removing this catherer; things fall off and stay within there. invention is about cleaning it off while its being removed.
+-> how to clean while removing without interrupting airflow to the patient
+
+background to invention is the context required in order to explain the invention, the "new" part of the area/technology in question at the patent
+
+pg 13 summary of the invention
+
+pg 14 provide a seperate chamber in the apparatus
+beginning of the drawings (sentence or two to describe the drawings/what is shown)
+
+details description follow the drawings
+
+pg 18 detailed descrpition (goes on for many pgs)- describes everything thats seen
+
+preceeding claims is all technical writing, but focused on patent style (follows headings; drawings, gist of characterizing the state of the art). writing is not particularly different
+
+pg 39 - claims - the "different" type of writing
+
+claim 1
+
+pg 44/45 - declaration of power of attorney and petition (no longer used in practice like this) 
+
+declaration by inventory
+power of attorney to appoint
+ownership to a 3rd party (usually employed)
+
+-> sometimes together, but usually seperated (now)
+
+declaration and assignment can be put together (for now)
+
+pg 48/49 drawings begin
+
+variation on the prior art is the invention. drawings show the different version of it. similar, but different. whole point of the invention. 
+
+pg 57 cover sheet used to send in the patent application
+
+look about the same even now. form you fill out. PTO SB05
+
+
+pg 58 not done usually anymore, bc electronic versions
+
+
+pg 59. express mail "date in stamp" ; so you get it the moment you drop it in the post office. do it via express mail certificate (example)
+
+
+
+
+part 2 ends at page 60. 
+
+
+
+
+
+
+
