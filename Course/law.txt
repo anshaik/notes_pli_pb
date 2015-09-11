@@ -1,0 +1,20 @@
+Law of Patents
+-------
+35 USC 101
+----
+5 requirements to get a patent
+patent eligibke, useful, novel, nonobvious, described well
+
+101 -> patentable subject matter and utility
+
+more interesting to talk about what is NOT patentable; this is bc MANY things are patentable in the US
+
+utility: is the claimed invention something that is useful
+-> does the invention work the way you're claiming that it works
+
+i.e. you say your invention kills cancer. if it kills cancer, it meets the requirement of utility
+
+----
+35 USC 102 (pt 1)
+----
+
